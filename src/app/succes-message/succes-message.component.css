@@ -1,0 +1,9 @@
+.succesWraper {
+    display: inline-block;
+    right: 100%;
+    background-color: green;
+    padding: 15px;
+}
+.succes {
+    color: white;
+}

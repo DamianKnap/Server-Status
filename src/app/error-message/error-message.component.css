@@ -1,0 +1,9 @@
+.errorWraper {
+    display: inline-block;
+    right: 100%;
+    background-color: red;
+    padding: 15px;
+}
+.error {
+    color: white;
+}

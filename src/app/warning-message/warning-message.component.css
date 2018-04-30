@@ -1,0 +1,9 @@
+.warningWraper {
+    display: inline-block;
+    right: 100%;
+    background-color: orange;
+    padding: 15px;
+}
+.warning {
+    color: white;
+}
